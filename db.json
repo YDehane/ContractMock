@@ -1,12 +1,8 @@
 {
   "Contract": [
-    { "MSAID": "CHDNUM001021541", "contractNumber": "CHDNUM001021541" ,"prospectNumber": "PE-001066443", "status": "PI" },
-    { "MSAID": "CHDNUM001021550", "contractNumber": "CHDNUM001021550" ,"prospectNumber": "PE-001066443", "status": "PI" },
-    { "MSAID": "CHDNUM001021543", "contractNumber": "CHDNUM001021543" ,"prospectNumber": "PE-001066443", "status": "PI" },
-    { "MSAID": "CHDNUM001021544", "contractNumber": "CHDNUM001021544" ,"prospectNumber": "PE-001066443", "status": "PI" },
-    { "MSAID": "CHDNUM001021545", "contractNumber": "CHDNUM001021545" ,"prospectNumber": "PE-001066445", "status": "PI" },
-    { "MSAID": "CHDNUM001021546", "contractNumber": "CHDNUM001021546" ,"prospectNumber": "PE-001066443", "status": "PI" },
-    { "MSAID": "CHDNUM001021549", "contractNumber": "CHDNUM001021549" ,"prospectNumber": "PE-001066443", "status": "PI" },
-    { "MSAID": "CTRHEA0001021733", "contractNumber": "CHDNUM001021733" ,"prospectNumber": "PE-001066450", "status": "BC" }
+    { "id": 1, "prospectNumber": "PE-001066443", "status": "Signed" },
+    { "id": 2, "prospectNumber": "PE-001066443", "status": "Signed" },
+    { "id": 3, "prospectNumber": "PE-001066443", "status": "Signed" },
+    { "id": 4, "prospectNumber": "PE-001066445", "status": "Signed" }
   ]
 }
