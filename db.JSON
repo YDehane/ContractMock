@@ -1,8 +1,8 @@
 {
-  "Contract": [
-    { "id": 1, "prospectNumber": "PE-001066443", "status": "Signed" },
-    { "id": 2, "prospectNumber": "PE-001066443", "status": "Signed" },
-    { "id": 3, "prospectNumber": "PE-001066443", "status": "Signed" },
-    { "id": 4, "prospectNumber": "PE-001066445", "status": "Signed" }
+  "offers": [
+    { "offerId": 1, "Billing Frequency": "PE-001066443", "Payment Base": "Signed", "Payment Delay": "Signed", "Payment Mode": "Signed" },
+    { "offerId": 2, "Billing Frequency": "PE-001066443", "Payment Base": "Signed", "Payment Delay": "Signed", "Payment Mode": "Signed" },
+    { "offerId": 3, "Billing Frequency": "PE-001066443", "Payment Base": "Signed", "Payment Delay": "Signed", "Payment Mode": "Signed" },
+    { "offerId": 4, "Billing Frequency": "PE-001066445", "Payment Base": "Signed", "Payment Delay": "Signed", "Payment Mode": "Signed" }
   ]
 }
