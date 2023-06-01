@@ -1,7 +1,7 @@
 {
   "offers": [
     { "offerId": "offerId1", "billingFrequency": "HEBD", "paymentBase": "CMPT", "paymentDelay": "01", "paymentMode": "21" },
-    { "offerId": "offerId2", "billingFrequency": "MENS", "paymentBase": "FM", "paymentDelay": "03", "paymentMode": "21" },
+    { "offerId": "offerId2", "billingFrequency": "MENS", "paymentBase": "FM", "paymentDelay": "03", "paymentMode": "PTIERS" },
     { "offerId": "offerId3", "billingFrequency": "QUIN", "paymentBase": "FM10", "paymentDelay": "05", "paymentMode": "CPT" },
     { "offerId": "offerId4", "billingFrequency": "HEBD", "paymentBase": "FM12", "paymentDelay": "07", "paymentMode": "TIERS" }
   ]
