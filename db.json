@@ -1,8 +1,8 @@
 {
   "offers": [
-    { "offerId": "offerId1", "Billing Frequency": "PE-001066443", "Payment Base": "Signed", "Payment Delay": "Signed", "Payment Mode": "Signed" },
-    { "offerId": "offerId2", "Billing Frequency": "PE-001066443", "Payment Base": "Signed", "Payment Delay": "Signed", "Payment Mode": "Signed" },
-    { "offerId": "offerId3", "Billing Frequency": "PE-001066443", "Payment Base": "Signed", "Payment Delay": "Signed", "Payment Mode": "Signed" },
-    { "offerId": "offerId4", "Billing Frequency": "PE-001066445", "Payment Base": "Signed", "Payment Delay": "Signed", "Payment Mode": "Signed" }
+    { "offerId": "offerId1", "Billing Frequency": "HEBD", "Payment Base": "CMPT", "Payment Delay": "01", "Payment Mode": "07" },
+    { "offerId": "offerId2", "Billing Frequency": "MENS", "Payment Base": "FM", "Payment Delay": "03", "Payment Mode": "21" },
+    { "offerId": "offerId3", "Billing Frequency": "QUIN", "Payment Base": "FM10", "Payment Delay": "05", "Payment Mode": "CPT" },
+    { "offerId": "offerId4", "Billing Frequency": "HEBD", "Payment Base": "FM12", "Payment Delay": "07", "Payment Mode": "TIERS" }
   ]
 }
